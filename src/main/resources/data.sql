@@ -1,0 +1,27 @@
+INSERT INTO product_table
+(price, quantity, sku, title_x, created_at, updated_at)
+VALUES
+(12.4, 4, 'parle734', 'Parle Biscuit', NOW(6), NOW(6)),
+(14.4, 1, 'pepsi123', 'Pepsi', NOW(6), NOW(6)),
+(34.4, 10, 'coke124', 'Coca Cola', NOW(6), NOW(6)),
+(16.4, 3, 'pepsi156', 'Mazza', NOW(6), NOW(6)),
+(10.5, 6, 'oreo321', 'Oreo Biscuit', NOW(6), NOW(6)),
+(25.0, 2, 'lays789', 'Lays Chips', NOW(6), NOW(6)),
+(13.7, 8, 'kitkat456', 'KitKat', NOW(6), NOW(6)),
+(29.9, 5, 'sprite111', 'Sprite', NOW(6), NOW(6)),
+(19.4, 7, 'fanta222', 'Fanta', NOW(6), NOW(6)),
+(22.5, 9, 'twix333', 'Twix', NOW(6), NOW(6)),
+(30.0, 4, 'bournvita444', 'Bournvita', NOW(6), NOW(6)),
+(27.3, 2, 'milo555', 'Milo', NOW(6), NOW(6)),
+(15.6, 3, 'maggi666', 'Maggi Noodles', NOW(6), NOW(6)),
+(17.8, 1, 'pasta777', 'Pasta', NOW(6), NOW(6)),
+(11.3, 2, 'parle738', 'Parle G Biscuit', NOW(6), NOW(6)),
+(15.6, 4, 'pepsi127', 'Diet Pepsi', NOW(6), NOW(6)),
+(36.5, 7, 'coke127', 'Coca Cola Zero', NOW(6), NOW(6)),
+(18.2, 1, 'pepsi128', 'Pepsi Max', NOW(6), NOW(6)),
+(14.7, 3, 'parle739', 'Parle Marie Biscuit', NOW(6), NOW(6)),
+(16.9, 5, 'pepsi129', 'Pepsi Twist', NOW(6), NOW(6)),
+(37.8, 9, 'coke128', 'Coca Cola Vanilla', NOW(6), NOW(6)),
+(19.5, 6, 'pepsi130', 'Pepsi Blue', NOW(6), NOW(6)),
+(20.3, 8, 'parle740', 'Parle 20-20 Cookies', NOW(6), NOW(6)),
+(17.1, 2, 'pepsi131', 'Pepsi Wild Cherry', NOW(6), NOW(6));
